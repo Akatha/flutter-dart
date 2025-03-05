@@ -26,7 +26,10 @@ class Main extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       // theme: ThemeData.dark(),
       // home: HomePage(),
-      home: BookDetail(),
+      home:
+
+      HomePage(),
+      // BookDetail(),
     );
   }
 }
